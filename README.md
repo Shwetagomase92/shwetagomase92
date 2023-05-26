@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gomaseshweta8@gmail.com)
 &nbsp;
 
-
+<--
 **Shwetagomase92/shwetagomase92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetagomase92&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetagomase92&layout=compact&theme=github_dark&langs_count=10)
