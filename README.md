@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Shweta
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Shwetagomase92)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shwetagomase/)
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetagomase92&show_icons=true)
+![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetagomase92&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetagomase92&layout=compact&theme=github_dark&langs_count=10)
