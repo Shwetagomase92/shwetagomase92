@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Shweta
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Shwetagomase92)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shwetagomase/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gomaseshweta8@gmail.com)
 &nbsp;
 
@@ -18,6 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shwetagomase/)
+
 --> 
 ![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetagomase92&show_icons=true)
 
